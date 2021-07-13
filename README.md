@@ -10,10 +10,3 @@
 3. Hospital Dashboard information of available beds in hospitals , colleges and medical colleges.
 
 4. Comparison of daily sample tests and confirmed cases of the patients.
-
-## Technologies used 
-1. HTML
-2. CSS
-3. Javascript
-4. API
-5. Nodejs
